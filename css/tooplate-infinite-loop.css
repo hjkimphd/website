@@ -362,9 +362,10 @@ blockquote {
 /* Work */
 
 .tm-section-desc {
-  max-width: 650px;
+  max-width: 1000px;
   width: 100%;
-  font-size: 0.9rem;
+  font-size: 1.1 rem;
+font-style: italic;
 }
 
 .tm-gallery-container {
